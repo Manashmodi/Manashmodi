@@ -1,0 +1,160 @@
+  body
+  {
+      margin:auto;
+  }
+      #main{
+    margin-left: 1%;
+    margin-right:1%;
+}
+    #h{
+    background-image: url("https://www.woodenspoonskitchen.com/wp-content/uploads/2018/05/Featured-Image3.jpg");
+    height:700px;
+    width:100%; 
+    background-repeat: no-repeat;
+    background-color:red;
+    background-size: cover; 
+    box-shadow: 0px 3px 15px black;
+    } 
+    #login{
+        color:white; 
+        font-size:30px;
+        margin-left: 80%; 
+        text-decoration: none;
+    }  
+    #login > a{
+        color:white; 
+        font-size:40px;
+        text-decoration: none; 
+        box-shadow: 0px 3px 15px darkcyan;
+    } 
+    a:hover{
+         background-color:gray; 
+    } 
+    #logo{
+       background-color:aliceblue; 
+      height:auto;
+       width: 150px; 
+       border-radius: 50%; 
+      text-align: center;
+      margin-left:45%;
+       font-size: 70px; 
+        color:red;  
+        margin-top: 10%; 
+        font-size: 70px; 
+        box-shadow: 0px 3px 15px darkcyan
+
+    } 
+    .text{
+        
+        
+        font-weight: bold;
+    }  
+    #p{
+        text-align:center;
+        font-weight: bold; 
+        color:white;
+        font-size:30px; 
+
+    }  
+    p:hover{
+        background-color:bisque
+    }
+    #search{
+        margin-left: 35%;
+        margin-top: 1%;
+    
+    } 
+    .content{
+        width:320px; 
+        height:40px;
+    } 
+    .content:hover{
+        background-color:bisque
+    }    
+
+    #quicksearch{
+        width:80%;
+        height:500px;
+        margin-left: 10%;
+        margin-top: 2%;
+    } 
+    .quickheader{
+        color: #192f60;
+        font-size: 50px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        display: block;
+    } 
+    .quicksub{
+        color:black;
+        font-size: 20px;
+        position: absolute;
+        margin-top: 20px;
+        line-height: 0.1%;
+    } 
+     #mainlist{
+margin-top:4%;
+     } 
+     .id{
+         height:260px;
+         width:30%;   
+         box-shadow: 0px 3px 15px black; 
+         margin-left: 1%; 
+         margin-top:1%; 
+         float:left; 
+         margin-bottom: 2%;
+     }   
+    .id1{
+        width:46%;
+        float:left; 
+        
+
+    } 
+    .id2{
+        width:46%;
+        float:left; 
+        margin-top: 20px; 
+        margin-left: 20px;  
+    } 
+    .id1>img{
+        height:260px;
+        width: 105%;
+    } 
+    .sub{
+        color:#192f60;
+        font-size: 30px; 
+        font-weight: bold;
+    } 
+    .subtitle{
+        color:gray;
+        font-size: 22px;   
+        margin-top: 40px; 
+    } 
+    @media screen and (max-width:1600px)
+    {
+.id{
+    width:48%;
+}
+    } 
+    @media screen and (max-width:1400px)
+    {
+
+    } 
+    @media screen and (max-width:1000px)
+    {
+
+    } 
+    @media screen and (max-width:800px)
+    {
+
+    } 
+    @media screen and (max-width:600px)
+    {
+
+    } 
+    @media screen and (max-width:400px)
+    {
+
+    }
+
+
+    
